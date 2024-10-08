@@ -1,24 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Human Robot Safety</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Human Robot Safety</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        ol {
+            margin-left: 20px;
+        }
+        strong {
+            color: #0056b3;
+        }
+    </style>
 </head>
 <body>
-<h1>Human Robot Safety</h1>
+    <h1>Human Robot Safety</h1>
 
-<div>
-<img src="your_image_path.jpg" alt="Human Robot Safety">
-</div>
+    <div>
+        <img src="your_image_path.jpg" alt="Human Robot Safety">
+    </div>
 
-<p>This image demonstrates the safety measures in place when a human and a robot are working in close proximity. Here's a breakdown of the steps:</p>
+    <p>This image demonstrates the safety measures in place when a human and a robot are working in close proximity. Here's a breakdown of the steps:</p>
 
-<ol>
-<li><strong>Warning the operator:</strong> The robot detects the human's presence within the monitored area and issues a warning to the operator.</li>
-<li><strong>Stopping the robot:</strong> If the human continues to approach the robot, the robot automatically stops its operation.</li>
-<li><strong>Moving the robot back:</strong> The robot may be programmed to move away from the human to avoid a potential collision.</li>
-<li><strong>Modifying the path:</strong> The robot's path can be adjusted to ensure it does not enter the monitored area or come into contact with the human.</li>
-</ol>
+    <ol>
+        <li><strong>Warning the operator:</strong> The robot detects the human's presence within the monitored area and issues a warning to the operator.</li>
+        <li><strong>Stopping the robot:</strong> If the human continues to approach the robot, the robot automatically stops its operation.</li>
+        <li><strong>Moving the robot back:</strong> The robot may be programmed to move away from the human to avoid a potential collision.</li>
+        <li><strong>Modifying the path:</strong> The robot's path can be adjusted to ensure it does not enter the monitored area or come into contact with the human.</li>
+    </ol>
 
-<p>These safety measures help to prevent accidents and ensure the safety of both the human and the robot.</p>
+    <p>These safety measures help to prevent accidents and ensure the safety of both the human and the robot.</p>
 </body>
 </html>
