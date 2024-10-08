@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Human Robot Safety</title>
+</head>
+<body>
+<h1>Human Robot Safety</h1>
+
+<div>
+<img src="your_image_path.jpg" alt="Human Robot Safety">
+</div>
+
+<p>This image demonstrates the safety measures in place when a human and a robot are working in close proximity. Here's a breakdown of the steps:</p>
+
+<ol>
+<li><strong>Warning the operator:</strong> The robot detects the human's presence within the monitored area and issues a warning to the operator.</li>
+<li><strong>Stopping the robot:</strong> If the human continues to approach the robot, the robot automatically stops its operation.</li>
+<li><strong>Moving the robot back:</strong> The robot may be programmed to move away from the human to avoid a potential collision.</li>
+<li><strong>Modifying the path:</strong> The robot's path can be adjusted to ensure it does not enter the monitored area or come into contact with the human.</li>
+</ol>
+
+<p>These safety measures help to prevent accidents and ensure the safety of both the human and the robot.</p>
+</body>
+</html>
